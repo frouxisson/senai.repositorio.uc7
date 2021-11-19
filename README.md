@@ -1,3 +1,9 @@
 # senai.repositorio.uc7
-
-readme de exemplo
+Para gerenciar meu repositório usei os seguintes comandos: 
+*git add 
+*git init
+*git status
+*git commit -m
+*git push -u origin master 
+*git pull
+*git remote -v
